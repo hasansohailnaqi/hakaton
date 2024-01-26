@@ -66,6 +66,19 @@ module.exports = {
   },
 },     -->
 
+## install some component from shadcn ui
+
+nav bar
+
+
+
+
+
+
+
+
+
+
 
 
 
