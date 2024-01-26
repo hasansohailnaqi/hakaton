@@ -34,3 +34,39 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## plugin install
+
+react icon
+npm install react-icons --save
+
+shadcnui
+npx shadcn-ui@latest init
+
+desyui
+npm i -D daisyui@latest
+
+## next step
+
+changes in tailwindjs file
+
+<!-- plugins: [require("tailwindcss-animate"),require("daisyui")],
+
+content: [
+    './src/pages/**/*.{ts,tsx}',
+    './components/**/*.{ts,tsx}',
+    './src/app/**/*.{ts,tsx}',
+    ], 
+
+module.exports = {
+  
+  daisyui: {
+    themes: ["light"],
+  },
+},     -->
+
+
+
+
+
