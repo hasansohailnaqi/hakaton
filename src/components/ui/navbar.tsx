@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import React from 'react'
+import { NavigationMenuDemo } from './navLink';
 
 const Navbar = () => {
   return (
@@ -27,19 +28,9 @@ const Navbar = () => {
     <a className="btn btn-ghost text-xl">daisyUI</a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
-      <li><Link href={'#'}>Home</Link></li>
-      <li>
-        <details>
-          <summary>Store</summary>
-          <ul className="p-2">
-            <li><Link href={'#'}>Mens</Link></li>
-            <li><Link href={'#'}>Woman</Link></li>
-          </ul>
-        </details>
-      </li>
-      <li><Link href={'#'}>About</Link></li>
-    </ul>
+   <div>
+    <NavigationMenuDemo />
+   </div>
   </div>
   <div className="navbar-end">
     <a className="btn">Button</a>
