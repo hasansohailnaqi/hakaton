@@ -19,6 +19,10 @@ const Navbar = () => {
           <ul className="p-2">
             <li><Link href={'#'}>Mens</Link></li>
             <li><Link href={'#'}>Woman</Link></li>
+            <li><Link href={'#'}>Mart</Link></li>
+            <li><Link href={'#'}>Baby Shop</Link></li>
+            <li><Link href={'#'}>Electronic</Link></li>
+            <li><Link href={'#'}>Pet Food</Link></li>
           </ul>
         </details>
       </li>
