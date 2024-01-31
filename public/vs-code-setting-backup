@@ -1,0 +1,20 @@
+{
+    "files.autoSave": "afterDelay",
+    "python.defaultInterpreterPath": "C:\\Users\\hasan sohail\\anaconda3\\python.exe",
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.iconTheme": "material-icon-theme",
+    "tabnine.experimentalAutoImports": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        
+        
+    },
+    "cSpell.userWords": [
+        "tailwindcss",
+        "wokurxkz",
+        "ycmbmwiy"
+    ],
+    "vscode-edge-devtools.webhintInstallNotification": true
+}
